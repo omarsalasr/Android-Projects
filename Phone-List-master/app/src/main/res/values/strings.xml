@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Phones</string>
+    <string name="phone_image">Phone Image</string>
+    <string name="spec_image">Spec Image</string>
+
+    <string name="dimension"><font size="14"><b>Dimensions: </b></font></string>
+    <string name="weight"><font size="14"><b>Weight: </b></font></string>
+    <string name="display"><font size="14"><b>Display: </b></font></string>
+    <string name="processor"><font size="14"><b>Processor: </b></font></string>
+    <string name="camera"><font size="14"><b>Camera: </b></font></string>
+    <string name="battery"><font size="14"><b>Battery: </b></font></string>
+    <string name="ram"><font size="14"><b>RAM: </b></font></string>
+    <string name="storage"><font size="14"><b>Storage: </b></font></string>
+    <string name="cost"><font size="14"><b>Cost: </b></font></string>
+
+</resources>

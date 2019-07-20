@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="phone_model">
+        <item>Samsung Galaxy Note 9</item>
+        <item>Google Pixel 3</item>
+        <item>OnePlus 6T</item>
+        <item>iPhone XS Max</item>
+        <item>Razer Phone</item>
+        <item>LG V30</item>
+    </string-array>
+
+    <string-array name="phone_details">
+        <item>Screen Size: 6.4\"\nCost: Expensive</item>
+        <item>Screen Size: 5.5\"\nCost: Average</item>
+        <item>Screen Size: 6.4\"\nCost: Bang for your buck</item>
+        <item>Screen Size: 6.5\"\nCost: Overpriced</item>
+        <item>Screen Size: 5.7\"\nCost: Acceptable</item>
+        <item>Screen Size: 6.0\"\nCost: Pricey</item>
+    </string-array>
+
+    <string-array name="phone_links">
+        <item>https://www.samsung.com/us/mobile/galaxy-note9/</item>
+        <item>https://store.google.com/us/product/pixel_3?hl=en-US</item>
+        <item>https://www.oneplus.com/6t</item>
+        <item>https://www.apple.com/shop/buy-iphone/iphone-xs</item>
+        <item>https://www.razer.com/mobile/razer-phone</item>
+        <item>https://www.lg.com/us/cell-phones/lg-US998-Unlocked-v30</item>
+    </string-array>
+
+    <string-array name="note9_specs">
+        <item>6.37 x 3 x .35 in</item>
+        <item>201 g</item>
+        <item>6.4\" Quad HD+ Super AMOLED</item>
+        <item>Octa-Core Processor @ 2.8GHz</item>
+        <item>12MP Dual Camera</item>
+        <item>4000mAh</item>
+        <item>6GB and 8GB</item>
+        <item>128GB and 512GB</item>
+        <item>$999.99 and $1249.99</item>
+    </string-array>
+
+    <string-array name="google_pixel_3_specs">
+        <item>5.7 x 2.7 x .3 in</item>
+        <item>148 g</item>
+        <item>5.5\" P-OLED</item>
+        <item>Octa-Core Processor @ 2.5GHz</item>
+        <item>12.2MP Camera</item>
+        <item>2915mAh</item>
+        <item>4GB</item>
+        <item>64GB and 128GB</item>
+        <item>$799.00 and $899.00</item>
+    </string-array>
+
+    <string-array name="oneplus_6t_specs">
+        <item>6.20 x 2.94 x .32 in</item>
+        <item>185 g</item>
+        <item>6.41\" Optic AMOLED</item>
+        <item>Octa-Core Processor @ 2.8GHz</item>
+        <item>16MP Dual Camera</item>
+        <item>3700mAh</item>
+        <item>6GB and 8GB</item>
+        <item>128GB and 256GB</item>
+        <item>$549.00, $579.00 and $629.00</item>
+    </string-array>
+
+    <string-array name="iphone_xs_max_specs">
+        <item>6.20 x 3.05 x .3 in</item>
+        <item>208 g</item>
+        <item>6.5\" Super AMOLED</item>
+        <item>Hexa-Core Processor @ 2.5GHz</item>
+        <item>12MP Dual Camera</item>
+        <item>3174mAh</item>
+        <item>4GB</item>
+        <item>64GB, 256GB and 512GB</item>
+        <item>$1099.00, $1249.00 and $1449.00</item>
+    </string-array>
+
+    <string-array name="razer_phone_specs">
+        <item>6.24 x 3.06 x .31 in</item>
+        <item>197 g</item>
+        <item>5.7\" IPS LCD</item>
+        <item>Octa-Core Processor @ 2.35GHz</item>
+        <item>12MP Dual Camera</item>
+        <item>4000mAh</item>
+        <item>8GB</item>
+        <item>64GB</item>
+        <item>$699.99</item>
+    </string-array>
+
+    <string-array name="lg_v30_specs">
+        <item>5.97 x 2.97 x .29 in</item>
+        <item>158 g</item>
+        <item>6.0\" P-OLED</item>
+        <item>Octa-Core Processor @ 2.45GHz</item>
+        <item>16MP Dual Camera</item>
+        <item>3300mAh</item>
+        <item>4GB</item>
+        <item>64GB</item>
+        <item>$829.99</item>
+    </string-array>
+
+</resources>

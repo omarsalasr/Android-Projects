@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClipPlayerActivity">
+
+    <Button
+        android:id="@+id/btn_start_service"
+        android:layout_width="120dp"
+        android:layout_height="111dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="166dp"
+        android:layout_marginBottom="46dp"
+        android:text="@string/start_service"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+        android:id="@+id/btn_stop_service"
+        android:layout_width="120dp"
+        android:layout_height="111dp"
+        android:layout_marginTop="166dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="46dp"
+        android:text="@string/stop_service"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <Button
+        android:id="@+id/btn_play_stop_clip"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="45dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="9dp"
+        android:text="@string/play"
+        app:layout_constraintBottom_toTopOf="@+id/btn_pause_resume_clip"
+        app:layout_constraintEnd_toStartOf="@+id/btn_stop_service"
+        app:layout_constraintStart_toEndOf="@+id/btn_start_service" />
+
+    <Button
+        android:id="@+id/btn_pause_resume_clip"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="46dp"
+        android:text="@string/pause"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_stop_service"
+        app:layout_constraintStart_toEndOf="@+id/btn_start_service" />
+
+    <ListView
+        android:id="@+id/list_view_clips"
+        android:layout_width="395dp"
+        android:layout_height="558dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:listSelector="@color/colorTextSelector"/>
+
+</android.support.constraint.ConstraintLayout>

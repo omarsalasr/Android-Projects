@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Application 1</string>
+    <string name="launch_a2">Launch A2</string>
+    <string name="application_1">Welcome to Application 1</string>
+    <string name="image">Image</string>
+    <string name="launch_site">Launch Site</string>
+
+    <string name="samsung">https://www.samsung.com/us/mobile/galaxy-note9/</string>
+    <string name="google">https://store.google.com/us/product/pixel_3?hl=en-US</string>
+    <string name="oneplus">https://www.oneplus.com/6t</string>
+    <string name="apple">https://www.apple.com/shop/buy-iphone/iphone-xs</string>
+    <string name="razer">https://www.razer.com/mobile/razer-phone</string>
+    <string name="lg">https://www.lg.com/us/cell-phones/lg-US998-Unlocked-v30</string>
+
+</resources>

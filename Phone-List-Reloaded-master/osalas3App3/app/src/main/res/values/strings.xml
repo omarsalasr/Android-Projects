@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Application 3</string>
+    <string name="launcher">Launch A1/A2</string>
+    <string name="exit">Exit</string>
+    <string name="perm_label">Open Applications</string>
+    <string name="perm_desc">open other application</string>
+    <string name="phone_image">Phone Image</string>
+
+    <string-array name="phone_list">
+        <item>iPhone XS Max</item>
+        <item>LG V30</item>
+        <item>Note 9</item>
+        <item>Oneplus 6t</item>
+        <item>Pixel 3</item>
+        <item>Razer Phone</item>
+    </string-array>
+
+    <string-array name="company_list">
+        <item>apple</item>
+        <item>lg</item>
+        <item>samsung</item>
+        <item>neplus</item>
+        <item>google</item>
+        <item>razer</item>
+    </string-array>
+
+
+</resources>
