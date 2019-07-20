@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tank Controller</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="tank_speed">Tank Speed</string>
+    <string name="drop_salt">Drop Salt</string>
+    <string name="get_salt">Get Salt</string>
+</resources>
